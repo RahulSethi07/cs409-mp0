@@ -37,7 +37,7 @@ body {
   
   a {
     color: rgb(59, 1, 122);
-    text-decoration: none;
+    text-decoration: underline;
     font-size: 16px;
     font-weight: bold;
     display: inline-block;
